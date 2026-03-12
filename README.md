@@ -9,7 +9,7 @@ This project performs an in-depth analytical study of the Brazilian E-Commerce P
 Our analysis explores the relationships between order items, payments, customer reviews, and logistics performance to provide actionable business intelligence and strategic insights for e-commerce optimization.
 📂 Dataset Origin
 
-    Source: Brazilian E-Commerce Public Dataset by Olist
+    Source: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
     Context: This is a real commercial dataset provided by Olist, the largest department store in Brazilian marketplaces.
 
 📈 Key Performance Indicators (KPIs)
@@ -35,5 +35,6 @@ Noureldin Khaled	Visualization
 Mohamed Mahmoud	Visualization
 Ahmed Hassan	Presentation & Reporting
 👨‍🏫 Supervision
+
 
 Instructor: AbdelRahman Ashour

@@ -1,47 +1,94 @@
-🛍️ Ecommerce Olist Analysis
-Turning E-Commerce Data into Strategic Insights
+# 🛍️ Ecommerce Olist Analysis  
+### Turning E-Commerce Data into Strategic Insights  
 
-📖 About the Project
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
+![SQL](https://img.shields.io/badge/SQL-Database-green)
+![PowerBI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
+![Status](https://img.shields.io/badge/Project-inprogress-lightyellow)
 
-This project performs an in-depth analytical study of the Brazilian E-Commerce Public Dataset by Olist. The dataset contains information on 100k orders from 2016 to 2018 made at multiple marketplaces in Brazil.
+---
 
-Our analysis explores the relationships between order items, payments, customer reviews, and logistics performance to provide actionable business intelligence and strategic insights for e-commerce optimization.
+## 📖 Project Idea
+This project focuses on analyzing the Brazilian E-Commerce dataset provided by Olist to extract meaningful insights that support data-driven decision-making.  
 
-📂 Dataset Origin
+The goal is to transform raw transactional data into actionable business intelligence that can help improve overall platform performance and profitability.  
+
+## 📂 Dataset Origin
 
 Source: Brazilian E-Commerce Public Dataset by Olist (https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
 Context: This is a real commercial dataset provided by Olist, the largest department store in Brazilian marketplaces.
 
-📈 Key Performance Indicators (KPIs)
 
-To measure the health and efficiency of the e-commerce platform, we track the following metrics:
 
-•	Revenue, orders, AOV, basket size, discount rate (if available)
-•	Top products/categories and seasonality
-•	Customer retention (cohorts) and RFM segments
-•	Return rate / refund leakage (if returns are available) or proxy via cancellations
-•	Conversion funnel (from events) and channel/source contribution (if present)
+---
 
-🛠️ Tech Stack
 
-    Languages: Python & SQL
-    Libraries: Pandas, NumPy
-    Tools: Jupyter Notebooks, Git, PowerBI, PowerPoint, SSMS (SQL Server Management System)
+## 👥 Team Members
+- Shady Mohamed  
+- Mokhtar Ahmed  
+- Noureldin Khaled  
+- Mohamed Mahmoud  
+- Ahmed Hassan  
 
-👥 The Team
-Member Name	Role  / Task
+---
 
-Shady Mohamed	    Database Creation & GitHub Management
+## 🗂️ Project Plan
 
-Mokhtar Ahmed	    Data Cleaning
+### 1. 🔍 Research & Analysis
+- Understanding dataset structure  
+- Identifying key business questions  
+- Defining KPIs  
 
-Noureldin Khaled	Visualization
+### 2. ⚙️ Data Processing and Storing
+- Data cleaning and handling missing values  
+- Data transformation and preparation using Python  
+- Storing the data tables using SQL  
 
-Mohamed Mahmoud	    Visualization
+### 3. 📊 Visualization
+- Building dashboards using Power BI  
+- Creating insightful charts and reports  
 
-Ahmed Hassan	    Presentation & Reporting
+### 4. ✅ Review & Finalization
+- Validating results  
+- Refining dashboards and insights  
 
-👨‍🏫 Supervision
-         Instructor: AbdelRahman Ashour
+### 5. 🎤 Final Presentation
+- Preparing PowerPoint presentation  
+- Delivering business insights and recommendations  
 
+---
+
+## 🧑‍💻 Roles & Responsibilities
+
+- **Shady Mohamed** → Database creation using SQL & GitHub management  
+- **Mokhtar Ahmed** → Data cleaning & preprocessing using Python  
+- **Mohamed Mahmoud** → Data visualization  
+- **Noureldin Khaled** → Data visualization  
+- **Ahmed Hassan** → Presentation & reporting  
+
+---
+
+## 📊 KPIs (Key Performance Indicators)
+
+- Revenue  
+- Number of Orders  
+- Average Order Value (AOV)  
+- Basket Size  
+- Customer Retention (Cohort Analysis)  
+- RFM Segmentation  
+- Top Products & Categories  
+- Seasonality Trends  
+- Cancellation Rate (as a proxy for returns)  
+- Conversion Funnel (if available)  
+
+
+---
+
+## 👨‍🏫 Instructor
+**AbdelRahman Ashour**  
+
+---
+
+## 📁 Project Files
+🔗 https://github.com/The-Clean-Sheet/Ecommerce-Olist

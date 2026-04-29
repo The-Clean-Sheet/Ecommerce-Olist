@@ -25,7 +25,7 @@ Context: This is a real commercial dataset provided by Olist, the largest depart
 
 
 ## 👥 Team Members
-- Shady Mohamed  
+- Shady Mohamed (Team Leader)
 - Mokhtar Ahmed  
 - Noureldin Khaled  
 - Mohamed Mahmoud  
